@@ -19,10 +19,10 @@ function HomePage() {
       <a className="text-gray-1000 text-4xl font-bold hover:text-orange-500 mr-4" href="#">Portfolio</a>
     </div>
     <div className="flex mt-2 md:mt-0">
-      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">Home</a>
-      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">Projects</a>
-      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">About</a>
-      <Link to ="/ContactUs" className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg  mr-4" href="#">Contact</Link>
+      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="https://bikashsingh-github.github.io/Travel-Website/">Home</a>
+      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="https://bikashsingh-github.github.io/Travel-Website/">Projects</a>
+      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="https://bikashsingh-github.github.io/Travel-Website/">About</a>
+      <Link to ="/ContactUs" className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg  mr-4" href="https://bikashsingh-github.github.io/Travel-Website/">Contact</Link>
     
     </div>
   

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikashSingh-GitHub/portfolio-react/static/css/main.f890a6a6.css",
+    "main.js": "/BikashSingh-GitHub/portfolio-react/static/js/main.b04266aa.js",
+    "index.html": "/BikashSingh-GitHub/portfolio-react/index.html",
+    "main.f890a6a6.css.map": "/BikashSingh-GitHub/portfolio-react/static/css/main.f890a6a6.css.map",
+    "main.b04266aa.js.map": "/BikashSingh-GitHub/portfolio-react/static/js/main.b04266aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f890a6a6.css",
+    "static/js/main.b04266aa.js"
+  ]
+}
